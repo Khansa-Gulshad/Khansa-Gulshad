@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Hi I'm Khansa 👋 
 ### About me
 I am a PhD student studying Water Disaster and Security at the China Institute of Water Resources and Hydropower Research (IWHR), Beijing. My research is focused on urban flood mapping and prediction using GIS.
 - 🌱 I’m currently learning Python. 
